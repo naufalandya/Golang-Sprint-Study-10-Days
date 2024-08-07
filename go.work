@@ -1,0 +1,9 @@
+go 1.22.5
+
+use (
+	./basic/1_dasar
+	./basic/2_ifelseforloopdkk
+	./basic/3_function
+	./basic/4_defer_panic_recover
+	./gin
+)
