@@ -5,5 +5,6 @@ use (
 	./basic/2_ifelseforloopdkk
 	./basic/3_function
 	./basic/4_defer_panic_recover
+	./basic/5_struct_interface_pointer_other
 	./gin
 )
